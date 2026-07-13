@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @grkernisant
 - 👀 I’m interested in travelling with my family and grilling on BBQ
 - 🌱 Over 20 years of experience with PHP, Node.js/TypeScript and Kotlin
-- 📫 reach me at ^ same hangle ^ @gmail.com or https://twitter.com/treboryug, https://bsky.app/profile/treboryug.bsky.social
